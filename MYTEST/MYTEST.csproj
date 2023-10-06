@@ -25,10 +25,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PTXSIS_BLL\MYTEST_BLL.csproj" />
-    <ProjectReference Include="..\PTXSIS_BusinessObjects\MYTEST_BusinessObjects.csproj" />
-    <ProjectReference Include="..\PTXSIS_Contracts\MYTEST_Contracts.csproj" />
-    <ProjectReference Include="..\PTXSIS_DAL\MYTEST_DAL.csproj" />
+    <ProjectReference Include="..\MYTEST_BLL\MYTEST_BLL.csproj" />
+    <ProjectReference Include="..\MYTEST_BusinessObjects\MYTEST_BusinessObjects.csproj" />
+    <ProjectReference Include="..\MYTEST_Contracts\MYTEST_Contracts.csproj" />
+    <ProjectReference Include="..\MYTEST_DAL\MYTEST_DAL.csproj" />
   </ItemGroup>
 
 </Project>

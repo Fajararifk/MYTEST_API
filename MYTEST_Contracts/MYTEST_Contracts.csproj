@@ -12,7 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MYTEST_DTO\MYTEST_DTO.csproj" />
-    <ProjectReference Include="..\PTXSIS_BusinessObjects\MYTEST_BusinessObjects.csproj" />
+    <ProjectReference Include="..\MYTEST_BusinessObjects\MYTEST_BusinessObjects.csproj" />
   </ItemGroup>
 
 </Project>
