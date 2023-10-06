@@ -20,9 +20,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PTXSIS\MYTEST.csproj" />
-    <ProjectReference Include="..\PTXSIS_BLL\MYTEST_BLL.csproj" />
-    <ProjectReference Include="..\PTXSIS_Contracts\MYTEST_Contracts.csproj" />
+    <ProjectReference Include="..\MYTEST\MYTEST.csproj" />
+    <ProjectReference Include="..\MYTEST_BLL\MYTEST_BLL.csproj" />
+    <ProjectReference Include="..\MYTEST_Contracts\MYTEST_Contracts.csproj" />
   </ItemGroup>
 
 </Project>
